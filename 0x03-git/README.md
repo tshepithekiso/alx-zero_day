@@ -1,1 +1,1 @@
-This isthe first directory for git in the alx-zero_day project
+ My second readme
